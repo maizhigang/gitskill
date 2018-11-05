@@ -3,5 +3,5 @@ Creating a new branch is quick and simple
 change in branch master and dev.
 test fast forward!!!
 test ff mode,change in branch master
-12
+123
 
